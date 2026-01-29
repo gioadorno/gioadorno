@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gioadorno/gioadorno/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark green)" />
+  <img src="https://raw.githubusercontent.com/gioadorno/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark green)" />
 </div>
 
 ---
