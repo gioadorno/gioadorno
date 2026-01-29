@@ -7,11 +7,11 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xl30&color=00d4ff&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/0xl30?tab=followers">
-    <img src="https://img.shields.io/github/followers/0xl30?label=Followers&style=for-the-badge&color=00d4ff" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=gioadorno&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/gioadorno?tab=followers">
+    <img src="https://img.shields.io/github/followers/gioadorno?label=Followers&style=for-the-badge&color=00d4ff" alt="GitHub Followers">
   </a>
-  <a href="https://linkedin.com/in/0xl30">
+  <a href="https://linkedin.com/in/gioadorno">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
@@ -23,13 +23,13 @@
   <table>
     <tr>
       <td align="center" width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xl30&theme=nightowl" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gioadorno&theme=nightowl" /> 
       </td>
       <td align="center" width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xl30&theme=nightowl" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gioadorno&theme=nightowl" />
       </td>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xl30&theme=nightowl" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gioadorno&theme=nightowl" />
 </div>
     </tr>
   </table>
@@ -58,11 +58,11 @@
 ### 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xl30&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gioadorno&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0xl30/0xl30/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark green)" />
+  <img src="https://raw.githubusercontent.com/gioadorno/gioadorno/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark green)" />
 </div>
 
 ---
@@ -70,7 +70,7 @@
 ### 🌐 **Connect With Me**
 
 <div align="center">
-  <a href="https://linkedin.com/in/0xl30">
+  <a href="https://linkedin.com/in/gioadorno">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
