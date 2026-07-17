@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/giovanni-a-16709a1a8/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://portfolio-two-beta-5oyjzj75w0.vercel.app/">
+  <a href="https://giovanni-adorno-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=cyan" alt="Portfolio">
   </a>
 </div>
@@ -25,7 +25,7 @@
 
 I am a **Forward Deployed Product Engineer** who bridges the gap between raw data and operational execution. I build defensive ingestion pipelines, autonomous orchestrators, and chaos-tested client systems.
 
-🌍 **Explore my work:** [My Portfolio](https://portfolio-two-beta-5oyjzj75w0.vercel.app/)
+🌍 **Explore my work:** [My Portfolio](https://giovanni-adorno-portfolio.vercel.app/)
 
 <div align="center">
   <table>
