@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Gio+👋;Forward+Deployed+Product+Engineer+🛡️;Systems+Architect+🐧&center=true&size=27&color=00d4ff&width=600&height=50&duration=3000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Gio+👋;Forward+Deployed+Product+Engineer+🛡️;AI+Architect+🐧&center=true&size=27&color=00d4ff&width=600&height=50&duration=3000&pause=1000" alt="Typing SVG" />
 </div>
 
 <div align="center">
